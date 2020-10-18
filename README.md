@@ -1,1 +1,2 @@
 # A-Dynamic-Model-for-Tracking-and-Trajectory-Prediction-with-Singular-Destination-Information
+In some applications the available destination distribution is singular. However, there is no motion/trajectory dynamic model for tracking and trajectory prediction of an object with a singular destination distribution. This project presents and evaluates a dynamic model for this purpose. Applications are in traffic control (air/ground) and autonomous vehicles.
